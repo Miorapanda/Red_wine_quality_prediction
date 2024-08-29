@@ -49,7 +49,7 @@ with main_col:
     st.write("")
     st.markdown("## How it works")
     st.markdown("""
- Using the Portuguese Verde model, this website predicts wine quality based on user-entered features. Simply input the relevant information on the left to receive your wine's quality rating from 3 to 8.
+ Using the Portuguese Vinho Verde model, this website predicts wine quality based on user-entered features. Simply input the relevant information on the left to receive your wine's quality rating from 3 to 8.
     """)
  # Add a white line
     st.markdown("""
